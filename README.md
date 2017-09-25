@@ -1,5 +1,5 @@
 # Human activity recognition using Recurrent Neural Nets(RNN), LSTM and Tensorflow on Smartphones
-This was my Master's project where i was involved using a dataset from Wireless Sensor Data Mining Lab (WISDM) to build a machine learning model for end-to-end systems to predict basic human activities using a smartphone accelerometer, Using Tensorflow API, recurrent neural nets and multiple stacks of Long-short-term memory units(LSTM)  for building a deep network with hidden units.  After the model was trained,  it was saved and exported to an android application and the predictions were made using the model as a proof of concept and the UI interface  to speak out the results using text-to-speech API.
+This was my Master's project where i was involved using a dataset from Wireless Sensor Data Mining Lab (WISDM) to build a machine learning model for end-to-end systems to predict basic human activities using a smartphone accelerometer, Using Tensorflow framework, recurrent neural nets and multiple stacks of Long-short-term memory units(LSTM)  for building a deep network with hidden units.  After the model was trained,  it was saved and exported to an android application and the predictions were made using the model as a proof of concept and the UI interface  to speak out the results using text-to-speech API.
 
 Process:
 
